@@ -1,2 +1,3 @@
 # lazorraptor-experiment-no-1
-this is first prototype
+lazor raptor is my first project on github etc.
+
